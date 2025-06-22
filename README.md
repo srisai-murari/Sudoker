@@ -58,6 +58,8 @@ open index.html  # or double-click to open in browser
 
 ---
 
-📄 License
-MIT License © Sri sai murari Makkala
+## 📄 License
+
+MIT License © [Sri Sai Murari Makkala](https://github.com/srisai-murari)
+
 
