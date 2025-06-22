@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>🔢 Sudoker 🧠</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <h1>Sudoker</h1>
+
+  <label for="board-size">Select Board Size:</label>
+  <select id="board-size">
+    <option value="4">4 x 4</option>
+    <option value="9" selected>9 x 9</option>
+    <option value="16">16 x 16</option>
+  </select>
+  <button onclick="generateBoard()">Generate</button>
+  <button onclick="solveBoard()">Solve</button>
+
+  <div id="board"></div>
+
+  <div id="navigation" style="margin-top: 10px; display: none;">
+    <button onclick="previousSolution()">Previous</button>
+    <span id="solution-count" style="margin: 0 10px;"></span>
+    <button onclick="nextSolution()">Next</button>
+  </div>
+
+  <script src="solver.js"></script>
+</body>
+</html>
