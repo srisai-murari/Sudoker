@@ -54,4 +54,10 @@ You can clone the project locally:
 git clone https://srisai-murari.github.io/Sudoker.git
 cd Sudoker
 open index.html  # or double-click to open in browser
+```
+
+---
+
+📄 License
+MIT License © Sri sai murari Makkala
 
