@@ -3,13 +3,13 @@
 
 A fully interactive Sudoku Solver built with **HTML**, **CSS**, and **JavaScript**. Solve 4x4, 9x9, and 16x16 Sudoku puzzles right in your browser!
 
-![Sudoku Solver Screenshot](./screenshot.png) <!-- Replace with actual screenshot -->
+![Sudoku Solver UI](https://raw.githubusercontent.com/srisai-murari/Sudoker/main/images/Screenshot%202025-06-22%20104924.png)
 
 ---
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the app](https://yourusername.github.io/sudoku-solver)  
+👉 [Click here to use the app](https://srisai-murari.github.io/Sudoker/)  
 *(replace with your GitHub Pages link)*
 
 ---
@@ -35,4 +35,23 @@ A fully interactive Sudoku Solver built with **HTML**, **CSS**, and **JavaScript
 ---
 
 ## 📁 Project Structure
+
+---
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3 (Grid Layout)
+- JavaScript (DOM, Backtracking Algorithm)
+
+---
+
+## 📥 Installation
+
+You can clone the project locally:
+
+```bash
+git clone https://srisai-murari.github.io/Sudoker.git
+cd Sudoker
+open index.html  # or double-click to open in browser
 
