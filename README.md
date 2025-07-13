@@ -9,8 +9,7 @@ A fully interactive Sudoku Solver built with **HTML**, **CSS**, and **JavaScript
 
 ## 🚀 Live Demo
 
-👉 [Click here to use the app](https://srisai-murari.github.io/Sudoker/)  
-*(replace with your GitHub Pages link)*
+👉 [Click here to use the app](https://srisai-murari.github.io/Sudoker/) 
 
 ---
 
