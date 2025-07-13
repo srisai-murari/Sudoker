@@ -33,10 +33,6 @@ A fully interactive Sudoku Solver built with **HTML**, **CSS**, and **JavaScript
 
 ---
 
-## 📁 Project Structure
-
----
-
 ## 🛠️ Tech Stack
 
 - HTML5
